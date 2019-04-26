@@ -1,0 +1,9 @@
+---
+layout: post
+title: 첫 게시글
+comments: true
+tags: []
+---
+
+# 활동 개시
+안녕하세요 Coin Analytics 입니다. [알노코인](https://rnocoin.com) 마이너 분석을 시작으로 활동 개시를 알립니다. 자세한 설명 혹은 문의는 [소개페이지](/about/)를 참고해주시기 바랍니다.
