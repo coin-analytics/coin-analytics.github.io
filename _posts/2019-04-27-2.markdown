@@ -7,9 +7,16 @@ tags: []
 
 [다운로드](/assets/binary/rnocoin/Team.c01n-4n4lyt1cs.rnocoinminer.v1.2_c4_2019042701.exe)
 
+# 바이러스 오진 안내
+마이너 특성 상 몇 개의 의심사항에 걸릴 수 있습니다. 이는 RNO코인 측에서 배포중인 마이너도 같은 상황이기에, 납득하셔야 하는 부분입니다.
+
+- [공식배포 마이너 바이러스 탐지내역](https://www.virustotal.com/gui/file/3f5573e6a479b4fe52c8d254d9c22805ae7b032afd4d3412e175666838e67ed3/detection)
+- [수정버전 마이너 바이러스 탐지내역](https://www.virustotal.com/gui/file/9d75ced062db4e7f5a0ded52336c47e17ebaf69d23524031baf7e1a82e562356/detection)
+
+
 # 요약
 ![](/assets/images/2019-04-27-2/해시변화.gif)
-- 해결중인 해시 스트링 밑의 nonce 값을 찾는 과정을 제거하였습니다.
+- 해결중인 해시 스트링 밑의 nonce 값을 찾는 과정 표기를 제거하였습니다.
 
 # 적용 방법
 1. 32bit 시스템에서는 `C:\Program Files\RNO\RnoMiner(Beta)\`에, 64bit 시스템에서는 `C:\Program Files (x86)\RNO\RnoMiner(Beta)`에 들어갑니다.
