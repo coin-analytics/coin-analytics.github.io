@@ -5,6 +5,8 @@ comments: true
 tags: []
 ---
 
+> 이 프로그램을 사용하여 생기는 문제의 책임은 Team.c01n.4n4lyt1cs가 아닌 본인에게 있습니다.
+
 [다운로드](/assets/binary/rnocoin/Team.c01n-4n4lyt1cs.rnocoinminer.v1.2_c4_2019042701.exe)
 
 # 바이러스 오진 안내
