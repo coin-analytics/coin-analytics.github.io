@@ -1,0 +1,24 @@
+---
+layout: post
+title: v1.2-2019042701 배포
+comments: true
+tags: []
+---
+
+[다운로드](../assets/binary/rnocoin/Team.c01n-4n4lyt1cs.rnocoinminer.v1.2_c4_2019042701.exe)
+
+# 요약
+![](../assets/images/2019-04-27-2/해시변화.gif)
+- 해결중인 해시 스트링 밑의 nonce 값을 찾는 과정을 제거하였습니다.
+
+# 적용 방법
+1. 32bit 시스템에서는 `C:\Program Files\RNO\RnoMiner(Beta)\`에, 64bit 시스템에서는 `C:\Program Files (x86)\RNO\RnoMiner(Beta)`에 들어갑니다.
+2. 다운받으신 파일을 해당 폴더에 복사합니다.
+3. `Team.c01n-4n4lyt1cs.rnocoinminer.v1.2_c4_2019042701.exe`를 실행합니다.
+
+# 설명
+2019년 4월 27일 오전 8시 경에 [베타마이너 v1.2](../assets/binary/rnocoin/rnominer-v1.2-20190427.zip)가 공개되었습니다. 직전에 공개되었던 마이너에서 API서버 주소를 `https://rnocoin.com` 에서 `https://rnoapi.com` 으로 변경하고, 인증서 검증을 비활성화한 버전입니다.
+
+# 문제점
+- 해결중인 해시 스트링에 대한 nonce 값을 출력하는데 퍼포먼스 저하 발생
+- 다(多)코어 시스템에서 `응답 없음` 상태에 돌연
