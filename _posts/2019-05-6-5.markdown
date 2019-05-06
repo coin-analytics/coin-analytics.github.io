@@ -1,0 +1,40 @@
+---
+layout: post
+title: RNO코인 해킹사태와 관련 공지
+comments: true
+tags: [rno코인, 알노코인, 르노코인]
+---
+
+## 서문
+
+안녕하세요 ? Coin Analytics의 김어진입니다.
+
+RNO 사태에 대해 저희 팀의 공식 성명문을 배포합니다.
+
+## RNO 해킹 사태
+
+우선 먼저, RNO 해킹사태로 인해 많은 피해를 보신 분들께 깊은 유감을 표합니다.
+
+### 마이너
+
+우선 저희가 RNO마이너 코드를 확인해 본 결과 바이러스나 백도어 등은 확인되지 않은 점 말씀드립니다. 또한 저희가 만든 마이너 버전 또한 바이러스나 백도어 등은 탑재되지 않았습니다. 오리지널 마이너, 최적화 마이너, 기타 실험용 마이너 들의 소스에 대해서는 [깃허브](https://github.com/coin-analytics)를 통해 공개하였습니다.
+
+### 이번 사태에 대한 루머
+
+또한 저희 팀이 RNO와 관련 있다는 루머는 사실이 아님을 말씀드립니다.
+
+## 앞으로의 활동 방안
+
+앞으로 Coin Analytics 명의로 RNO 코인 관련 활동은 없을 예정입니다. 다만 팀원 일부는 개인의 명의로 계속 활동할 수 있음을 알려드립니다.
+
+## Coin Analytics 팀원
+
+팀내 RNO 관련 프로젝트를 담당한 Coin Analytics 팀원 목록을 공개합니다. 도움이 필요하시거나 개인적인 용무가 있으실 경우 개인에게 연락하시기 바랍니다.
+
+| 본명 | 닉네임 | 담당 | 기타 밝힐 내용 |
+|:----:|:-----:|:----:|:-------------:|
+| 김어진 | ИОХЗИ | 도메인 관리<br/>GPU마이너 메인개발 | [kimuj5090@gmail.com](mailto:kimuj5090@gmail.com)|
+| 김현준 | SiBeRiA<br/>M4PRIA | RNO담당탱커<br/>GPU마이너 메인개발 | 스캠할거면 연락주세요<br/>[트위터 @sibe_ria9993](https://twitter.com/sibe_ria9993) |
+| 박건우 | KeonWoo Park | 전략<br/>지나가던 행인<br/>노이즈마케터 | [parkkw472@gmail.com](mailto:parkkw472@gmail.com) |
+| 이은학 | R3turnDev<br/>Caffie | 팀장<br/>백엔드 메인개발<br/>프론트엔드 보조개발 | [개인 Github](https://github.com/return0927)<br/>[invoice@return0927.xyz](mailto:invoice@return0927.xyz) | 
+| 정준영 | Joon<br/>M4xtat3 | 마이너 개발 | [jeongjy0317@gmail.com](mailto:jeongjy0317@gmail.com)<br/>[트위터 @jeongjy0317](https://twitter.com/jeongjy0317)|
